@@ -21,4 +21,4 @@ Graph
 	To run this program, you need to setup Hadoop system,
 	or you can run it on server.
 
-04.	Note: I have included sample input and output .txt files. 
+04.	Note: I have included sample input and output .txt files.
